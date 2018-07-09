@@ -1,2 +1,2 @@
 # JavaEE
-A collection Java EE web applications.
+A collection of Java EE web applications.
